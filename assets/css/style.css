@@ -80,7 +80,7 @@ a {
     width: 100%;
     background: 
     linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), 
-    url('./assets/images/banner.jpg') center no-repeat;
+    url('../images/banner.jpg') center no-repeat;
     background-size: cover;
     height: 500px;
     display: flex;
@@ -492,7 +492,7 @@ a {
     gap: 30px;
     background: 
     linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), 
-    url('./assets/images/contactimage.png') center no-repeat;
+    url('../images/contactimage.png') center no-repeat;
     background-size: cover;
 }
 .form_group {
